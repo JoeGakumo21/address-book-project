@@ -1,0 +1,16 @@
+#show-contact {
+    display: none;
+  }
+  
+  #display {
+    cursor: pointer;
+    color: #0088cc;
+  }
+  
+  #display:hover {
+    background-color: #cddead;
+    border: 2px solid #0088cc;
+  }  
+  body{
+      background-color: #97b2c2;
+  }
